@@ -1,0 +1,103 @@
+# Intel dirver
+mesa vulkan-intel pulseaudio-bluetooth bluez gst-plugins-ugly gvfs-mtp gvfs-gphoto2 xdotool
+# Gnome destop. gst-libav make totem to play some video file.
+sushi gnome-desktop gnome-terminal gedit  gnome-calculator gnome-color-manager gnome-control-center  gnome-epub-thumbnailer gnome-keyring gnome-screenshot gnome-tweaks gnome-user-share totem  gst-libav evince  dconf-editor file-roller p7zip unace lrzip squashfs-tools baobab eog dconf  gnome-system-monitor gnome-mobi-thumbnailer 
+# font
+noto-fonts-cjk adobe-source-han-sans-otc-fonts adobe-source-han-serif-otc-fonts wqy-microhei wqy-zenhei wqy-bitmapfont ttf-arphic-ukai ttf-arphic-uming opendesktop-fonts ttf-hannom ttf-ubuntu-font-family  adobe-source-han-sans-cn-fonts adobe-source-han-serif-cn-fonts terminus-font noto-fonts  noto-fonts-extra noto-fonts-emoji ttf-joypixels 
+# software for download 
+uget
+# software for pictures 
+gimp 
+# software for pictures
+nomacs 
+# software for pictures (vector image)
+inkscape 
+# software for pictures
+krita 
+# three modal
+blender
+# music
+pragha  
+# office
+libreoffice
+# browser
+firefox 
+# play video
+vlc 
+# unrar file
+unrar
+# sound editor
+audacity
+# screenshot
+flameshot 
+# disk tool
+gpart
+# Ebook
+calibre 
+# exfat support
+exfat-utils
+# Math and science tool
+lyx texlive-bin texlive-langextra texlive-games  texlive-humanities  texlive-langchinese   texlive-langcyrillic texlive-langextra texlive-langgreek texlive-langjapanese   texlive-langkorean texlive-latexextra texlive-music texlive-pictures texlive-pstricks texlive-publishers texlive-science texlive-bin texlive-fontsextra texlive-formatsextra texlive-core
+# [Markdown-Docx]
+pandoc
+# Home cinema
+kodi
+# A tool can support win api 
+wine
+# gtk arc theme
+arc-gtk-theme arc-icon-theme adapta-gtk-theme
+# virus protect
+clamav clamtk
+# if you dont install vlc , maybe you need it.
+ffmpeg 
+# screen recorder ;It must run on xorg.
+peek simplescreenrecorder
+# gnome shell tool 
+pacman -S chrome-gnome-shell
+# node
+npm nodejs
+# java
+jre-openjdk jre-openjdk-headless jdk-openjdk openjdk-doc openjdk-src
+# git
+git 
+# database
+mariadb
+# database manager tool
+dbeaver dbeaver-plugin-sshj 
+# compare Files
+meld
+# gnome git tool for gui
+gitg
+# Binary Editing Tools 
+ghex  
+# virtual machine virtualbox
+virtualbox
+# gnome-boxes is virtual machine and  connect remote machine
+gnome-boxes
+# gnome-builder glade
+gnome-builder glade
+# c++ developer
+cmake boost gdb ninja gcc clang meson devhelp
+# linux-headers, sometime, maybe you need it.
+linux-headers
+# porxy your network
+proxychains-ng 
+# qt base
+qt5-base qt5-wayland qt5-declarative qt5-xmlpatterns kvantum-qt5
+#network tools
+traceroute whois
+#Print 
+cups cups-filters cups-pdf nss-mdns
+# Some print diver
+gutenprint foomatic-db-gutenprint-ppds  foomatic-db-engine foomatic-db foomatic-db-ppds foomatic-db-nonfree foomatic-db-nonfree-ppds system-config-printer
+# Intel video acceleration: https://wiki.archlinux.org/index.php/Hardware_video_acceleration#Intel
+libva-intel-driver
+# Games
+0ad 
+# Games
+xonotic 
+# Games
+supertaket
+# NetWork capture tool
+wireshark
+
