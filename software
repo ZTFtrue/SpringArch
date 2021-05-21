@@ -100,4 +100,5 @@ xonotic
 supertaket
 # NetWork capture tool
 wireshark
-
+# Android device
+android-udev
