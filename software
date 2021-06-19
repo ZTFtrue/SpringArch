@@ -1,5 +1,5 @@
 # Intel dirver
-mesa vulkan-intel pulseaudio-bluetooth bluez gst-plugins-ugly gvfs-mtp gvfs-gphoto2 xdotool
+mesa vulkan-intel pipewire-pulse bluez-utils bluez gst-plugins-ugly gvfs-mtp gvfs-gphoto2 xdotool
 # Gnome destop. gst-libav make totem to play some video file.
 sushi gnome-desktop gnome-terminal gedit  gnome-calculator gnome-color-manager gnome-control-center  gnome-epub-thumbnailer gnome-keyring gnome-screenshot gnome-tweaks gnome-user-share totem  gst-libav evince  dconf-editor file-roller p7zip unace lrzip squashfs-tools baobab eog dconf  gnome-system-monitor gnome-mobi-thumbnailer 
 # font
